@@ -1,6 +1,5 @@
 local M = {}
 
-
 local JULIAN_EPOCH = 2440587.5
 
 local function from_julian_to_epoch(julian_date)
